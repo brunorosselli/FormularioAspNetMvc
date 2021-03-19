@@ -1,5 +1,7 @@
 # TESTE TRAINEE RCB
 
+[VÍDEO DE DEMONSTRAÇÃO](https://www.youtube.com/watch?v=HCiuHUldJ14)
+
 Teste para a vaga de Trainee da RCB.
 
 Trainee:
